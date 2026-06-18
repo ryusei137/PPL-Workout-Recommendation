@@ -1,0 +1,2 @@
+# PPL-Workout-Recommendation
+ユーザーのトレーニング部位や目的に応じて筋トレメニューを推薦するPythonプログラム
