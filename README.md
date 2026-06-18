@@ -1,4 +1,4 @@
-PPL Workout Recommender
+PPL Workout Recommendation
 
 概要
 
